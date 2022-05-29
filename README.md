@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/bugvlopper/FrontendMentro-base-apparel.git](https://github.com/bugvlopper/FrontendMentro-base-apparel.git)
-- Live Site URL: [https://bugvlopper.github.io/FrontendMentro-base-apparel](https://bugvlopper.github.io/FrontendMentro-base-apparel)
+- Solution URL: [https://github.com/bugvlopper/FrontendMentor-base-apparel.git](https://github.com/bugvlopper/FrontendMentor-base-apparel.git)
+- Live Site URL: [https://bugvlopper.github.io/FrontendMentor-base-apparel](https://bugvlopper.github.io/FrontendMentor-base-apparel)
 
 ## My process
 
