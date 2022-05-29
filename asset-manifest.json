@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/FrontendMentro-base-apparel/static/css/main.a09e4932.css",
-    "main.js": "/FrontendMentro-base-apparel/static/js/main.47566df1.js",
-    "static/js/787.06075869.chunk.js": "/FrontendMentro-base-apparel/static/js/787.06075869.chunk.js",
-    "static/media/hero-desktop.jpg": "/FrontendMentro-base-apparel/static/media/hero-desktop.659bc9a7221d265fe28f.jpg",
-    "static/media/hero-mobile.jpg": "/FrontendMentro-base-apparel/static/media/hero-mobile.1afd055b71b78462d388.jpg",
-    "static/media/logo.svg": "/FrontendMentro-base-apparel/static/media/logo.bfe35add16fb8c010b0231ce711541c6.svg",
-    "static/media/bg-pattern-desktop.svg": "/FrontendMentro-base-apparel/static/media/bg-pattern-desktop.964ebd4dd8014fd040d7.svg",
-    "index.html": "/FrontendMentro-base-apparel/index.html",
-    "static/media/icon-error.svg": "/FrontendMentro-base-apparel/static/media/icon-error.77009af74a9c193a398a6476b25aa1f3.svg",
-    "static/media/icon-arrow.svg": "/FrontendMentro-base-apparel/static/media/icon-arrow.4b3d2d93cd838720beda936cd05c7382.svg",
-    "main.a09e4932.css.map": "/FrontendMentro-base-apparel/static/css/main.a09e4932.css.map",
-    "main.47566df1.js.map": "/FrontendMentro-base-apparel/static/js/main.47566df1.js.map",
-    "787.06075869.chunk.js.map": "/FrontendMentro-base-apparel/static/js/787.06075869.chunk.js.map"
+    "main.css": "/FrontendMentor-base-apparel/static/css/main.22ddd159.css",
+    "main.js": "/FrontendMentor-base-apparel/static/js/main.736a3a51.js",
+    "static/js/787.06075869.chunk.js": "/FrontendMentor-base-apparel/static/js/787.06075869.chunk.js",
+    "static/media/hero-desktop.jpg": "/FrontendMentor-base-apparel/static/media/hero-desktop.659bc9a7221d265fe28f.jpg",
+    "static/media/hero-mobile.jpg": "/FrontendMentor-base-apparel/static/media/hero-mobile.1afd055b71b78462d388.jpg",
+    "static/media/logo.svg": "/FrontendMentor-base-apparel/static/media/logo.bfe35add16fb8c010b0231ce711541c6.svg",
+    "static/media/bg-pattern-desktop.svg": "/FrontendMentor-base-apparel/static/media/bg-pattern-desktop.964ebd4dd8014fd040d7.svg",
+    "index.html": "/FrontendMentor-base-apparel/index.html",
+    "static/media/icon-error.svg": "/FrontendMentor-base-apparel/static/media/icon-error.77009af74a9c193a398a6476b25aa1f3.svg",
+    "static/media/icon-arrow.svg": "/FrontendMentor-base-apparel/static/media/icon-arrow.4b3d2d93cd838720beda936cd05c7382.svg",
+    "main.22ddd159.css.map": "/FrontendMentor-base-apparel/static/css/main.22ddd159.css.map",
+    "main.736a3a51.js.map": "/FrontendMentor-base-apparel/static/js/main.736a3a51.js.map",
+    "787.06075869.chunk.js.map": "/FrontendMentor-base-apparel/static/js/787.06075869.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a09e4932.css",
-    "static/js/main.47566df1.js"
+    "static/css/main.22ddd159.css",
+    "static/js/main.736a3a51.js"
   ]
 }
